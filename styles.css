@@ -1,0 +1,84 @@
+body{
+    font-family: "Ubuntu", sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: rgb(12, 92, 12);
+}
+header{
+    margin-top: 15px;
+    line-height: 10px;
+    border-bottom-style: groove;
+    border-color: green;
+    border-width: 1px;
+
+}
+#paws{
+    color: rgb(0, 255, 13);
+}
+
+section{
+    float: left;
+    margin-left: 35px;
+    margin-top: 35px;
+    width: 45%;
+    text-align: justify;
+}
+h5{
+    font-weight: bold;
+}
+#dog-and-kitten{
+    width: 600px;
+    height: 350px;
+    margin-left: 2px;
+    margin-bottom: 10px;
+}
+
+.card{
+    float:right;
+    width: 45%;
+    margin-top: 35px;
+    margin-right: 35px;
+}
+
+.card-header{
+    background-color: rgb(5, 236, 5);
+    color: white;
+    font-size: 20px;
+}
+
+.card-body{
+    background-color: rgb(242, 250, 255);
+}
+input{
+    font-size: 18px;
+    font-family: "Ubuntu", sans-serif;
+}
+input:focus{
+    background-color: rgb(183, 255, 183);
+}
+label{
+    margin-bottom: 25px;
+}
+#sex{
+    margin-bottom: 5px;
+}
+#male{
+    margin-left:35px;
+}
+#female{
+    margin-left: 65px;
+}
+#neither{
+    margin-left: 65px;
+}
+#submit{
+    margin-left: 105px;
+    margin-right: 115px;
+}
+
+footer{
+    float: clear;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    margin-top: 28em;
+    margin-left: 40em;
+}
